@@ -32,6 +32,6 @@ const randomColor = `rgb(${r}, ${g}, ${b})`;
 
 body.style.backgroundColor = randomColor;
 currentColor.textContent = randomColor;
-
+button.style.backgroundColor = randomColor;
 
 });
